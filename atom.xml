@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-
-  <title><![CDATA[The Markets and More]]></title>
-  <link href="http://danrobbins.github.com/atom.xml" rel="self"/>
-  <link href="http://danrobbins.github.com/"/>
-  <updated>2012-12-28T16:08:01+00:00</updated>
-  <id>http://danrobbins.github.com/</id>
+  <title><![CDATA[Blendertrader]]></title>
+  <link href="http://www.blendertrader.com/atom.xml" rel="self"/>
+  <link href="http://www.blendertrader.com/"/>
+  <updated>2012-12-29T21:16:09+00:00</updated>
+  <id>http://www.blendertrader.com/</id>
   <author>
     <name><![CDATA[Dan Robbins]]></name>
     
@@ -13,35 +12,19 @@
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
-  <entry>
-    <title type="html"><![CDATA[Version 2, Improved with Git]]></title>
-    <link href="http://danrobbins.github.com/blog/2012/12/27/version-2/"/>
-    <updated>2012-12-27T20:36:00+00:00</updated>
-    <id>http://danrobbins.github.com/blog/2012/12/27/version-2</id>
-    <content type="html"><![CDATA[<p>Try 13 or more it seems. Whoa, I&#8217;ve made it pretty far! I think this is going to work!</p>
+    <entry>
+      
 
-<p><img src="http://danrobbins.github.com/images/mine/photo1.png"></p>
 
-<p><img src="https://lh6.googleusercontent.com/-iuLh-FhGft8/TxNyTXW1fkI/AAAAAAAAAXI/rJeirWOYW0U/s800/headshot.jpg"></p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[From the mac]]></title>
-    <link href="http://danrobbins.github.com/blog/2012/12/26/from-the-mac/"/>
-    <updated>2012-12-26T22:39:00+00:00</updated>
-    <id>http://danrobbins.github.com/blog/2012/12/26/from-the-mac</id>
-    <content type="html"><![CDATA[<p>Trying out some more Git stuff, but this time from the Mac.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Proper Git Setup]]></title>
-    <link href="http://danrobbins.github.com/blog/2012/12/26/proper-git-setup/"/>
-    <updated>2012-12-26T01:02:00+00:00</updated>
-    <id>http://danrobbins.github.com/blog/2012/12/26/proper-git-setup</id>
-    <content type="html"><![CDATA[<p>Just testing to see if I can figure out to do multi-device Git correctly.</p>
-]]></content>
-  </entry>
+
+
+<title type="html"><![CDATA[Welcome to Blendertrader]]></title>
+<link href="http://www.blendertrader.com/2012/12/29/welcome-to-blendertrader/"/>
+<updated>2012-12-29T15:12:00+00:00</updated>
+<id>http://www.blendertrader.com/2012/12/29/welcome-to-blendertrader</id>
+
+      <content type="html"><![CDATA[<p>Welcome to the site. Testing the 2.1 branch for final deployment!</p>
+<p><a rel="bookmark" href="http://www.blendertrader.com/2012/12/29/welcome-to-blendertrader/">&#9875; Permalink</a></p>]]></content>
+    </entry>
   
 </feed>
