@@ -3,7 +3,7 @@
   <title><![CDATA[Blendertrend]]></title>
   <link href="http://www.blendertrend.com/atom.xml" rel="self"/>
   <link href="http://www.blendertrend.com/"/>
-  <updated>2013-01-02T11:58:15+00:00</updated>
+  <updated>2013-01-03T01:08:57+00:00</updated>
   <id>http://www.blendertrend.com/</id>
   <author>
     <name><![CDATA[Dan Robbins]]></name>
@@ -46,7 +46,7 @@
 
 <ul>
 <li>Type the post on my Mac using TextMate</li>
-<li>Save it to specific folder inside of Dropbox (enter a referral code here)</li>
+<li>Save it to specific folder inside of <a href="http://db.tt/aTciVolG">Dropbox</a></li>
 <li>Go to the AWS console, start up my micro EC2 instance</li>
 <li>Once the instance is running, generate the site and copy it to the Apache htdocs folder for testing on the server</li>
 <li>Edit, re-generate, and test if neccessary</li>
@@ -63,13 +63,15 @@
 
 <ul>
 <li>I can turn on and off the EC2 instance via Amazon&#8217;s web based console</li>
-<li>Dropbox is installed on the EC2 instance with it symlinked to my octopress/source/_posts folder</li>
+<li><a href="http://db.tt/aTciVolG">Dropbox</a> is installed on the EC2 instance with it symlinked to my octopress/source/_posts folder</li>
 <li>I can edit posts on the iPad with the app Nebulous Notes ($5 for the full version of the app)</li>
 <li>I can connect to the EC2 command line, for generating and deploying the site via the app, Prompt by Panic software ($8 for the app)</li>
+<li>Keep in mind the IP address of the EC2 instance changes with every restart, which makes logging in at the command line a pain. You could, optionally, create an elastic IP address in AWS, which costs 1/2 cent per hour, when the instance is not running</li>
+<li>I set up alias&#8217;s in my EC2 bash profile to save keystrokes (useful for going to certain directories)</li>
 </ul>
 
 
-<p>Furthermore, Nebulous Notes has macro ability, so I was able to create a template of the YAML front matter for the Octopress post, saving on typing when creating a post on the iPad. The Dropbox setup works perfectly - I can create a post on my Mac and continue editing it on my iPad, and vice-versa (as I did in creating this lengthy post) Furthermore, I also have a folder for images that is symlinked between Dropbox and Octopress too.</p>
+<p>Furthermore, Nebulous Notes has macro ability, so I was able to create a template of the YAML front matter for the Octopress post, saving on typing when creating a post on the iPad. The <a href="http://db.tt/aTciVolG">Dropbox</a> setup works perfectly - I can create a post on my Mac and continue editing it on my iPad, and vice-versa (as I did in creating this lengthy post) Furthermore, I also have a folder for images that is symlinked between Dropbox and Octopress too.</p>
 
 <h4>How I setup the site:</h4>
 
@@ -78,8 +80,8 @@
 <li>Installed Octopress from my own fork (note - had to sudo some commands, i.e. bundler)</li>
 <li>Setup ssh to <a href="https://help.github.com/articles/generating-ssh-keys#platform-linux">Github</a></li>
 <li>Setup <a href="http://s3tools.org/s3cmd">s3cmd</a>. This <a href="http://www.jerome-bernard.com/blog/2011/08/20/quick-tip-for-easily-deploying-octopress-blog-on-amazon-s3/">site was helpful</a>. Note, I had issues with my keys, turns out you should paste them in, not type them out.</li>
-<li>Setup <a href="getdropbox.com">Dropbox referral link</a>. This <a href="http://buildcontext.com/blog/2012/dropbox-linux-ubuntu-ec2-linode-selective-sync">site&#8217;s</a> instructions made things easy.</li>
-<li>Configured the site to my needs (_config.yml, Rakefile, theme customization, etc)</li>
+<li>Setup <a href="http://db.tt/aTciVolG">Dropbox</a>. This <a href="http://buildcontext.com/blog/2012/dropbox-linux-ubuntu-ec2-linode-selective-sync">site&#8217;s</a> instructions made things easy.</li>
+<li>Configured the site to my needs the <a href="http://octopress.org/docs/theme/">Octopress docs</a> cover a lot, or do some searching</li>
 <li>Oh, and actually write some posts, that&#8217;s the whole point, right?</li>
 </ul>
 
