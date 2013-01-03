@@ -3,7 +3,7 @@
   <title><![CDATA[Blendertrend]]></title>
   <link href="http://www.blendertrend.com/atom.xml" rel="self"/>
   <link href="http://www.blendertrend.com/"/>
-  <updated>2013-01-03T01:08:57+00:00</updated>
+  <updated>2013-01-03T03:19:14+00:00</updated>
   <id>http://www.blendertrend.com/</id>
   <author>
     <name><![CDATA[Dan Robbins]]></name>
@@ -91,6 +91,8 @@
 <ul>
 <li>Thanks and links to the pages that were helpful</li>
 <li>next steps, more things to so</li>
+<li>where am I on learning (vim, command line, etc)</li>
+<li>What I still need to learn (git, css, etc)</li>
 </ul>
 
 <p><a rel="bookmark" href="http://www.blendertrend.com/2013/01/03/octopress/">&#9875; Permalink</a></p>]]></content>
