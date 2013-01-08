@@ -1,19 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://www.blendertrend.com/2013/01/01/welcome-to-blendertrader/</loc>
-        <lastmod>2013-01-03T11:42:11+00:00</lastmod>
+        <loc>http://www.blendertrend.com/2013/01/08/first-post/</loc>
+        <lastmod>2013-01-08T04:20:54+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.blendertrend.com/2013/01/08/octopress/</loc>
+        <lastmod>2013-01-08T04:21:50+00:00</lastmod>
     </url>
     <url>
         <loc>http://www.blendertrend.com/blog/archives/</loc>
-        <lastmod>2013-01-03T11:42:11+00:00</lastmod>
+        <lastmod>2013-01-08T04:21:50+00:00</lastmod>
     </url>
     <url>
         <loc>http://www.blendertrend.com/archives/</loc>
-        <lastmod>2013-01-03T11:42:11+00:00</lastmod>
+        <lastmod>2013-01-08T04:21:50+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.blendertrend.com/first/</loc>
+        <lastmod>2013-01-08T03:37:16+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://www.blendertrend.com/about/</loc>
+        <lastmod>2013-01-05T05:31:08+00:00</lastmod>
     </url>
     <url>
         <loc>http://www.blendertrend.com/</loc>
-        <lastmod>2013-01-03T11:42:11+00:00</lastmod>
+        <lastmod>2013-01-08T04:21:50+00:00</lastmod>
     </url>
 </urlset>
